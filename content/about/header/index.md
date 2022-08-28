@@ -3,10 +3,10 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  Hello! Welcome.
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
+My research focusses on tackling challenges of urbanisation in an equitable and just manner. I am particularly interested in understanding the processes that drive and shape urbanization and reproduce inequalities. I focus on using methods in spatial data science, complex network analyses and participatory mapping to develop computational and mixed methods for advancing the theories and practices of urban science. 
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+I also instruct on remote expeditions for National Geographic where high school students have the opportunity to learn about conservation, anthropology, engineering and policy. Previously, I helped build a media and technology startup dedicated to the cause of making this planet a healthier place through authentic journalism and data science at The Outdoor Journal.
