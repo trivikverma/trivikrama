@@ -1,4 +1,4 @@
-baseURL = "https://trivikverma.com/"
+baseURL = "https://trivikverma.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Dr. Trivik Verma"
