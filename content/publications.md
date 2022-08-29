@@ -6,6 +6,8 @@ header:
   image: ""
 share: true
 title: "Publications"
+layout: standard # standard or wide-body
+show_title_as_headline: true
 
 ---
 
@@ -13,7 +15,7 @@ title: "Publications"
 ### Under preparation or in press
 
 ***
-Nelso, R., Warnier, M., & Verma, T. (2022).Conceptualising Urban Inequality as a complex socio-spatial phenomenon.
+Nelson, R., Warnier, M., & Verma, T. (2022).Conceptualising Urban Inequality as a complex socio-spatial phenomenon.
 
 Jokic, I., van Boven, E., Manolopoulos, I., Verma, T., & van Mieghem, P. (2022). Modelling the Multi-layer Dynamics of Co-Evolution of Urban Regions: A case of Dutch Municipalities. (with Centraal Bureau voor de Statistiek).
 
@@ -32,10 +34,10 @@ Nicoletti, L., Santi, P., Warnier, M., & Verma, T. (2022). Tweets Matter: Quanti
 ### 2022
 
 ***
-Patel, R., Marvuglia, A., Baustert, P., Huang, Y., Shivakumar, A., Nikolic, I., & Verma, T. (2022). Quantifying households’ carbon footprint in cities using socioeconomic attributes: A case study for The Hague (Netherlands). Sustainable Cities and Society, 104087.
+Patel, R., Marvuglia, A., Baustert, P., Huang, Y., Shivakumar, A., Nikolic, I., & Verma, T. (2022). Quantifying households’ carbon footprint in cities using socioeconomic attributes: A case study for The Hague (Netherlands). *Sustainable Cities and Society*, 104087.
 [[Link](https://www.sciencedirect.com/science/article/abs/pii/S2210670722004048)]
 
-Wang, Z., Pel, A. J., Verma, T., Krishnakumari, P., van Brakel, P., & van Oort, N. (2022). Effectiveness of trip planner data in predicting short-term bus ridership. Transportation Research Part C: Emerging Technologies, 142, 103790.
+Wang, Z., Pel, A. J., Verma, T., Krishnakumari, P., van Brakel, P., & van Oort, N. (2022). Effectiveness of trip planner data in predicting short-term bus ridership. *Transportation Research Part C: Emerging Technologies*, 142, 103790.
 [[Link](https://www.sciencedirect.com/science/article/pii/S0968090X22002170)]
 
 Badhrudeen, M., Derrible, S., Verma, T., Kermanshah, A., & Furno, A. (2022). A Geometric Classification of World Urban Road Networks. *Urban Science*, 6(1), 11.
