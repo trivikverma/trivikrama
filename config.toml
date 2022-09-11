@@ -1,4 +1,4 @@
-baseURL = "https://trivikverma.netlify.app/"
+baseURL = "https://trivikverma.com/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Dr. Trivik Verma"
@@ -144,11 +144,11 @@ enableEmoji = true
     name = "Publications"
     title = "Publications"
     url = "/publications/"
-#  [[menu.header]]
-#    name = "Projects"
-#    title = "Project Portfolio"
-#    url = "/project/"
-#    weight = 3
+  [[menu.header]]
+    name = "Projects"
+    title = "Project Portfolio"
+    url = "/project/"
+    weight = 3
 #  [[menu.header]]
 #    name = "Talks"
 #    title = "Talks"

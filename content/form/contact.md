@@ -1,7 +1,7 @@
 ---
 title: Hi there
 name: Contact Us Form
-description: "This form is for contacting me about speaking engagements, opportunities to work together, or mentorship requests. This is *NOT* a form for requesting help."
+description: "This form is for contacting me about catching up, speaking engagements, opportunities to work together, or mentorship requests."
 date: 2019-02-25T13:38:41-06:00
 draft: false
 url: contact

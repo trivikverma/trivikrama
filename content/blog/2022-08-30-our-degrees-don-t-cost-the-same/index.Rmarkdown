@@ -6,6 +6,7 @@ slug: our-degrees-don-t-cost-the-same
 categories: [education,delft]
 tags: []
 layout: single-sidebar
+summary: About 10 years ago, I was awarded a master’s degree at TU Delft. Imprinted on matte paper in dark ink and wrapped in a cylindrical red tube, the degree was capable of opening doors that were otherwise not even visible to my next of kin.
 ---
 
 About 10 years ago, I was awarded a master’s degree at TU Delft. Imprinted on matte paper in dark ink and wrapped in a cylindrical red tube, the degree was capable of opening doors that were otherwise not even visible to my next of kin. The economy had already recovered from the financial shock of 2008 creating plenty of new opportunities for anxious students thinking about their future. New, well-paying jobs, start-up opportunities and research endeavours called my peers to all parts of the world. In what some academics would call a moment of upward mobility, I went to ETH Zurich next, in the hope of finding an even better future.
@@ -31,5 +32,7 @@ In non-pandemic years, most non-EU graduating students end up staying and buildi
 <br />
 
 -----
+
+> *Thumbnail image from [Unsplash](https://unsplash.com/photos/pYWuOMhtc6k)*
 
 _Original article can be found [here](https://www.delta.tudelft.nl/article/letter-our-degrees-dont-cost-same)._

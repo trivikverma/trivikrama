@@ -15,13 +15,17 @@ show_title_as_headline: true
 ### Under preparation or in press
 
 ***
+Melo, H. P., Verma, T & Araujo, N. A. (2023). A Universal Method to Measure Accessibility.
+
 Nelson, R., Warnier, M., & Verma, T. (2022).Conceptualising Urban Inequality as a complex socio-spatial phenomenon.
 
 Jokic, I., van Boven, E., Manolopoulos, I., Verma, T., & van Mieghem, P. (2022). Modelling the Multi-layer Dynamics of Co-Evolution of Urban Regions: A case of Dutch Municipalities. (with Centraal Bureau voor de Statistiek).
 
+Kolkowski, L., Verma, T., & Cats, O. (2022) Measuring Activity-Based Social Segregation using Public Transport Smart Card Data.
+
 Goncalves, J., Kraaijvanger, C., Arab, R., & Verma, T. (2022). A socio-spatial analysis of Climate Vulnerability.
 
-Goncalves, J., & Verma, T. (2022). Spatial Justice! A Research Agenda for Global Urban Challenges. 
+Goncalves, J., & Verma, T. (2022). Spatial Justice! A Research Agenda for Global Urban Challenges.
 
 Herzog, R., Goncalves, J., Slingerland, G., Kleinhans, R., Holger, P., Brazier, F., & Verma, T. (2022). Cities for Citizens: Identification of Socio-Spatial Public Value Conflicts in Urban Areas.
 
@@ -30,6 +34,8 @@ Sundaram, A., Goncalves, J., Ghorbani, A., Verbraeck, A., & Verma, T. (2022). Ev
 Nicoletti, L., Sireno, M., & Verma, T. (2022). Disadvantaged Communities have lower access to Urban Infrastructure.
 
 Nicoletti, L., Santi, P., Warnier, M., & Verma, T. (2022). Tweets Matter: Quantifying the Spatio-Temporal Relationship Between Social Media Activism and Physical Protest.
+
+Reggiani, G., Tang, W., Verma, T., & Hoogendoorn, S. (2021). Analysing World Bike Networks. 
 
 ### 2022
 
@@ -67,7 +73,7 @@ Melo, H. P., Henriques, J., Carvalho, R., Verma, T., da Cruz, J. P., & Araújo, 
 ### 2020
 
 ***
-Wang, Z., Luo, D., Cats, O., & Verma, T. (2020, September). Unraveling the Hierarchy of Public Transport Networks. In *2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC)* (pp. 1-6). IEEE. 
+Wang, Z., Luo, D., Cats, O., & Verma, T. (2020, September). Unraveling the Hierarchy of Public Transport Networks. In *2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC)* (pp. 1-6). IEEE.
 [[Link](https://ieeexplore.ieee.org/abstract/document/9294342/)]
 
 ### 2019
@@ -123,4 +129,3 @@ Koç, Y., Verma, T., Araujo, N. A., & Warnier, M. (2013, November). Matcasc: A t
 ***
 Verma, T. (2012). Vulnerability of Power Grids to Cascading Failures. *MSc Thesis at TU Delft*
 [[Link](https://repository.tudelft.nl/islandora/object/uuid:9780faf8-81e0-4f9f-b5c6-6848393be4d1)]
-
