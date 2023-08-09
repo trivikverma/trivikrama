@@ -141,19 +141,20 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Publications"
-    title = "Publications"
-    url = "/publications/"
-  [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
     url = "/project/"
     weight = 3
-#  [[menu.header]]
-#    name = "Talks"
-#    title = "Talks"
-#    url = "/talk/"
-#    weight = 4
+  [[menu.header]]
+    name = "Publications"
+    title = "Publications"
+    url = "/publications/"
+    weight = 4
+  [[menu.header]]
+    name = "CV"
+    title = "CV"
+    url = "/cv/cv.pdf"
+    weight = 5
 
     
   # Configure footer  
