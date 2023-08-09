@@ -11,31 +11,55 @@ show_title_as_headline: true
 
 ---
 
-
-### Under preparation or in press
+### Draft in Preparation
 
 ***
-Melo, H. P., Verma, T & Araujo, N. A. (2023). A Universal Method to Measure Accessibility.
+Goncalves, J., & Verma, T. (2023). Transforming Cities – A Research Agenda for Global Urban Challenges. (Submitting to WIREs Climate Change)
 
-Nelson, R., Warnier, M., & Verma, T. (2022).Conceptualising Urban Inequality as a complex socio-spatial phenomenon.
+Peiret-Garcia, C., & Verma, T. (2023). Measuring Tailored Accessibility using Time Surveys. (Submitting to Transportation Research Interdisciplinary Perspectives)
 
-Jokic, I., van Boven, E., Manolopoulos, I., Verma, T., & van Mieghem, P. (2022). Modelling the Multi-layer Dynamics of Co-Evolution of Urban Regions: A case of Dutch Municipalities. (with Centraal Bureau voor de Statistiek).
+Vybornova, A., & Verma, T. (2023). Challenging the premise of the Schelling Model: A Constrained Choice Model depicting Reality of Urban Movements. (Submitting to Technological Forecasting and Social Change)
 
-Kolkowski, L., Verma, T., & Cats, O. (2022) Measuring Activity-Based Social Segregation using Public Transport Smart Card Data.
+Verma, T., & Robinson, C. (2023). Rethinking Urban Governance. (Submitting to Nature Cities)
 
-Goncalves, J., Kraaijvanger, C., Arab, R., & Verma, T. (2022). A socio-spatial analysis of Climate Vulnerability.
+Nawaz, M., Goncalves, J., Hoppe, T., Doorn, N., & Verma, T. (2023). Developing Renovation Policies to Tackle Energy Poverty. (Submitting to Energy Policy)
 
-Goncalves, J., & Verma, T. (2022). Spatial Justice! A Research Agenda for Global Urban Challenges.
+Goncalves, J., Kraaijvanger, C., Arab, R., & Verma, T. (2023). A Socio-spatial analysis of Climate Vulnerability. (Submitting to Nature Sustainability)
 
-Herzog, R., Goncalves, J., Slingerland, G., Kleinhans, R., Holger, P., Brazier, F., & Verma, T. (2022). Cities for Citizens: Identification of Socio-Spatial Public Value Conflicts in Urban Areas.
+Kaufmann, T., Agostini, G., & Verma, T. (2023) Mobility of Travel and Proximity Equity Gap in American Cities. (Submitting to Env Planning B)
 
-Sundaram, A., Goncalves, J., Ghorbani, A., Verbraeck, A., & Verma, T. (2022). Evaluating the Role of Urban Social Networks in Just Energy Transition.
+### Under Review or In Press
 
-Nicoletti, L., Sireno, M., & Verma, T. (2022). Disadvantaged Communities have lower access to Urban Infrastructure.
+***
+Nelson, R., Warnier, M., & Verma, T. (2023). Housing Inequalities: The space-time geography of housing policies. (Submitted to Cities).
+[[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478174)]
 
-Nicoletti, L., Santi, P., Warnier, M., & Verma, T. (2022). Tweets Matter: Quantifying the Spatio-Temporal Relationship Between Social Media Activism and Physical Protest.
+Liezenga, A.M., Verma, T., Mayaud, J., Aydin, N., & van Wee, B. (2023). The first mile towards access equity: is on-demand microtransit a valuable addition to the transportation mix in suburban communities? (Submitted to Journal of Transport Geography)
 
-Reggiani, G., Tang, W., Verma, T., & Hoogendoorn, S. (2021). Analysing World Bike Networks. 
+Kraaijvanger, C., Verma, T., Doorn, N., & Goncalves, J. (2023). Does the sun shine for all? Revealing socio-spatial inequalities in the transition to solar energy in The Hague, The Netherlands. Available at SSRN 4375481.(Forthcoming Energy Research & Social Science) 
+[[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375481)]
+
+Jokic, I., van Boven, E., Manolopoulos, I., Verma, T., & van Mieghem, P. (2023). Modelling the Multi-layer Dynamics of Co-Evolution of Urban Regions: A case of Dutch Municipalities. (with Centraal Bureau voor de Statistiek). (Submitted to Science Advances)
+
+Nelson, R., Warnier, M., & Verma, T. (2023). Conceptualising Urban Inequality as a Complex Socio-technical Phenomenon. (Forthcoming Geographical Analysis). [[Link](https://zenodo.org/record/7308300)]
+
+Sundaram, A., Goncalves, J., Ghorbani, A., & Verma, T. (2023). Designing Policies for Equitable Adoption of Rooftop Solar PV. Available at SSRN 4403544. (Forthcoming Energy Research & Social Science).
+[[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4403544)]
+
+Herzog, R., Goncalves, J., Slingerland, G., Kleinhans, R., Holger, P., Brazier, F., & Verma, T. (2023). Identifying Public Values and Spatial Conflicts in Urban Planning. (Forthcoming Urban Studies).
+[[Link](https://arxiv.org/abs/2207.04719)]
+
+### 2023
+
+***
+Kolkowski, L., Cats, O., Dixit, M., Verma, T., Jenelius, E., Cebecauer, M., & Rubensson, I. J. (2023). Measuring activity-based social segregation using public transport smart card data. *Journal of Transport Geography*, 110, 103642. 
+[[Link](https://www.sciencedirect.com/science/article/pii/S096669232300114X)]
+
+Reggiani, G., Verma, T., Daamen, W., & Hoogendoorn, S. (2023). A multi-city study on structural characteristics of bicycle networks. *Environment and Planning B: Urban Analytics and City Science*, 23998083231170637. 
+[[Link](https://journals.sagepub.com/doi/full/10.1177/23998083231170637)]
+
+Nicoletti, L., Sirenko, M., & Verma, T. (2023). Disadvantaged Communities have Lower Access to Urban Infrastructure. *Environment and Planning B: Urban Analytics and City Science*, 23998083221131044.
+[[Link](https://journals.sagepub.com/doi/full/10.1177/23998083221131044)]
 
 ### 2022
 
@@ -51,6 +75,9 @@ Badhrudeen, M., Derrible, S., Verma, T., Kermanshah, A., & Furno, A. (2022). A G
 
 Fard, A. E., & Verma, T. (2022). A comprehensive review on countering rumours in the age of online social media platforms. *Causes and Symptoms of Socio-Cultural Polarization*, 253-284.
 [[Link](https://link.springer.com/chapter/10.1007/978-981-16-5268-4_11)]
+
+Nicoletti, L., Santi, P., Warnier, M., & Verma, T. (2022). Tweets Matter: Quantifying the Spatio-Temporal Relationship Between Social Media Activism and Physical Protest. (Archived) 
+[[Link](https://assets.researchsquare.com/files/rs-1488943/v1/a2997fb2-113e-4adf-bd68-6b2b0dc2ae43.pdf?c=1662025464)]
 
 ### 2021
 
