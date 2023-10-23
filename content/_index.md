@@ -1,7 +1,7 @@
 ---
 title: Trivik Verma
 type: home
-subtitle: Assistant Professor in Urban Science & Policy
+subtitle: Associate Professor in Urban Science & Policy
 description: I am an Assistant Professor at the faculty of Technology, Policy and Management in Delft University of Technology. I co-lead the Centre for Urban Science & Policy at the department of Multi-Actor Systems. Previously I was the director of the TPM AI Lab and help set up a community around critical AI research and education. My goal is to transform university education to reflect learning, empower minorities and shape a healthy and sustainable research culture. 
 image_left: false
 images:
