@@ -1,8 +1,8 @@
 ---
 title: Trivik Verma
 type: home
-subtitle: Associate Professor in Urban Science & Policy *** Geospatial Consultant for Public Sector and Civil Society
-description: I am an Associate Professor at the faculty of Technology, Policy and Management in Delft University of Technology. I co-lead the Centre for Urban Science & Policy at the department of Multi-Actor Systems. Previously I was the director of the TPM AI Lab and help set up a community around critical AI research and education. My goal is to transform university education to reflect learning, empower minorities and shape a healthy and sustainable research culture. 
+subtitle: Professor of Just Urban Futures *** Geospatial Consultant for Public Sector and Civil Society
+description: I am a Professor of Just Urban Futures at Geography and Environment, Loughborough University. Previously I was the director of the TPM AI Lab and Centre for Urban Science & Policy and help set up a community around critical Urban AI research and education. My goal is to transform university education to reflect learning, empower minorities and shape a healthy and sustainable research culture. 
 image_left: false
 images:
 - img/headshot.jpg

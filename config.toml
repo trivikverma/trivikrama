@@ -35,7 +35,7 @@ enableEmoji = true
 [params]
   orgName = "Trivik Verma"
   orgLocal = ""
-  description = "Personal website and portfolio of Dr. Trivik Verma"
+  description = "Personal website and portfolio of Prof. Trivik Verma"
   favicon = "/img/favicon.png"
   logo = "/img/favicon.png"
   mainSections = ["blog", "project", "talk"]
@@ -47,8 +47,6 @@ enableEmoji = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
-  # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "TrivikV"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -102,10 +100,7 @@ enableEmoji = true
 #      icon      = "instagram" # icon name without the 'fa-'
 #      icon_pack = "fab"
 #      url       = "https://www.instagram.com/explore/tags/apero/"
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/TrivikV"
+
   [[params.social]]
       icon      = "linkedin-in" # icon name without the 'fa-'
       icon_pack = "fab"
